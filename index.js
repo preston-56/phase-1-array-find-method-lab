@@ -13,4 +13,4 @@ function superbowlWin (record){
     return result !== undefined ? result.year : result;
 };
 
-superbowlWin();
+superbowlWin(record);
